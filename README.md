@@ -1,7 +1,7 @@
 # C-TemplateBookExercises
 C++ Templates The Complete Guide exercises &amp; Notes
 ### Part One: The Basics
-- [ ] Chapter 1
+- [X] Chapter 1
 - [ ] Chapter 2
 - [ ] Chapter 3
 - [ ] Chapter 4
